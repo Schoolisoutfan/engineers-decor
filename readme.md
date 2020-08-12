@@ -11,6 +11,8 @@ Mod sources for Minecraft version 1.15.1.
 
 ## Version history
 
+    ~ v1.1.3-b1   [M] Lang file update zh_cn (PR#117, Moonisky).
+
     - v1.1.2      [R] Maintenance release v1.1.2.
                   [F] Fixed metal pole culling (issue #109).
 
